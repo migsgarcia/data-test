@@ -1,6 +1,6 @@
 # Technical Test for Data Engineering Position
 
-This test is designed for candidates to demonstrate their knowledge of good software and data engineering practices.
+As a member of our data Engineering team, your work will focus on delivering long-lived data assets. This assessment is your opportunity to showcase your knowledge of good software and data engineering practices. Please develop your solution as if you were working on a production codebase.
 
 As part of solving this, we are looking to assess:
 - Your problem-solving approach.
@@ -51,12 +51,12 @@ Contains information about customers including
 customer_id, customer_name, and customer_city.
 ```
 
-
 Tasks:
 - Load the datasets into Pandas dataframes from sample data.
 - Perform data cleaning if necessary (e.g., handling missing values).
-- Merge the two datasets on the 'customer_id' column.
-- Calculate the total order amount for each customer.
-- Find the top 10 customers with the highest total order amount.
-- Calculate the average order amount per city.
-- Identify the city with the highest average order amount.
+- Develop functionality that enables a user/ downstream application to:
+    - Calculate the total order amount for each customer.
+    - Calculate the average order amount per city.
+    - Identify the city with the highest average order amount.
+    - Find the customers with the n-th highest total order amount within a given date range.
+    - Raise a warning when a change in the week-on-week total order amount changes by more than 50% for any city.
