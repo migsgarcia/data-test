@@ -1,6 +1,6 @@
 # Technical Test for Data Engineering Position
 
-This test is designed for candidates to demonstrate their knowledge of good software and data engineering practices.
+As a memeber of our data Engineering team, your work will focus on delivering long-lived data assets. This assement is your opportunity to shgocase your knowledge of good software and data engineering practices. Please develop your solution as if you were working on a production codebase.
 
 As part of solving this, we are looking to assess:
 - Your problem-solving approach.
