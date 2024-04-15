@@ -1,6 +1,6 @@
 # Technical Test for Data Engineering Position
 
-As a memeber of our data Engineering team, your work will focus on delivering long-lived data assets. This assement is your opportunity to shgocase your knowledge of good software and data engineering practices. Please develop your solution as if you were working on a production codebase.
+As a member of our data Engineering team, your work will focus on delivering long-lived data assets. This assessment is your opportunity to showcase your knowledge of good software and data engineering practices. Please develop your solution as if you were working on a production codebase.
 
 As part of solving this, we are looking to assess:
 - Your problem-solving approach.
@@ -59,4 +59,4 @@ Tasks:
     - Calculate the average order amount per city.
     - Identify the city with the highest average order amount.
     - Find the customers with the n-th highest total order amount within a given date range.
-    - Raise a warning when change in the week-on-week total order amount changes by more than 50% for any city.
+    - Raise a warning when a change in the week-on-week total order amount changes by more than 50% for any city.
